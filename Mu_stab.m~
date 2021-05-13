@@ -1,0 +1,3 @@
+function mu_stab = Mu_stab(S)
+% S param assumed to be of form S = [S11, S12; S21, S22]
+    
