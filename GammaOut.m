@@ -1,8 +1,6 @@
 function GammaOut = GammaOut(S, GammaS)
-% requires S in 2 by 2 matrix [S11, S12; S21, S22]. We can convert from
-% polar form using my_pol2cart() in this directory or by using the built-in
-% pol2cart with some extra reading of documentation.
-
+% Gammaout(S, GammaS).
+% Computes GammaOut given S-parameters (complex 2  by 2 matrix) and GammaS. (1 by 2 matrix)
 
 
 
